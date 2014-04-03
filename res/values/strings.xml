@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Weight Control</string>
+    <string name="height">Height</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="weight">Weight</string>
+    <string name="neck">Neck</string>
+    <string name="waist">Waist</string>
+    <string name="hip">Hip</string>
+    <string name="settings">Settings</string>
+    <color name="light_gray">#E2E3DF</color>
+    <color name="dark_gray">#2E3233</color>
+    <color name="medium_gray">#515B5E</color>
+    <color name="white">#FFFEFC</color>
+    <string name="button_confirm">Confirm</string>
+    <string name="centimeter">cm</string>
+    <string name="kilogram">kg</string>
+    <string name="summary">Summary</string>
+    <string name="history">Historic</string>
+    <string name="new_data">Weight Data</string>
+    <string name="fat_percentage">Fat %</string>
+    <string name="weight_change">Change</string>
+    <string name="total_loss">Total Loss</string>
+    <string name="bmi">BMI</string>
+    <string name="condition">Condition</string>
+    <string name="no_content">--</string>
+    <string name="condition_underweight">Underweight</string>
+    <string name="condition_normal">Normal</string>
+    <string name="condition_obese">Obese</string>
+    <string name="condition_overweight">Overweight</string>
+    <string name="date">Date</string>
+    <string name="fill_weight">Please fill your weight</string>
+    <string name="chart">Chart</string>
+    <string name="time">Time</string>
+    <string name="all_data">All data</string>
+    <string name="last_month">Last month</string>
+    <string name="last_3_months">Last 3 months</string>
+    <string name="data">Data</string>
+    <string name="about">About</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="sdcard">SD Card</string>
+    <string name="export_data">Export</string>
+    <string name="import_data">Import</string>
+    <string name="export_failed">Unable to export data</string>
+    <string name="import_failed">Unable to import data</string>
+    <string name="export_success">Data exported</string>
+    <string name="import_success">Data imported</string>
+    <string name="uploading">Uploading data</string>
+    <string name="downloading">Downloading data</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_authenticated">This app wasn\'t authenticated properly</string>
+    <string name="error_too_big">This file is too big to upload</string>
+    <string name="error_up_canceled">Upload canceled</string>
+    <string name="error_down_canceled">Download canceled</string>
+    <string name="error_network">Network error, try again</string>
+    <string name="error_dropbox">Dropbox error, try again</string>
+    <string name="error_unknown">Unknown error, try again</string>
+    <string name="error_not_file">File or empty directory</string>
+    <string name="error_cache">Couldn\'t create a local file to store the data</string>
+    <string name="import_question">All data will be replaced. Are you sure?</string>
+    <string name="remove">Remove</string>
+    <string name="remove_question">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+    <string name="remove_data">Remove Data</string>
+    <string name="suggestion">Suggestions and criticisms</string>
+    <string name="message_feedback">Leave a message</string>
+    <string name="about_content">
+    <b>Simple Weight Control</b>\n
+	<b>Version 1.7</b>\n
+	2012 - Double Logic\n
+	http://www.doublelogic.com.br\n\n
+	This software is free to use. Double Logic will do everything possible to improve its functionality but does not guarantee its complete operation.\n
+	Double Logic is not responsible for data loss or damage arising from use of this software.\n\n
+	We tried to improve a little the lives of people, if you like this software tell a friend!\n\n
+	This software uses icons from the <b>Tango Desktop Project</b>:\n
+	http://tango.freedesktop.org/\n\n
+	And icons from the <b>RRZE Icon Set</b>:\n
+	http://rrze-icon-set.berlios.de/\n\n
+	We use the library software <b>AChartEngine</b>:\n
+	http://www.achartengine.org/\n\n
+	<b>Thanks for everything, enjoy!</b>
+    </string>
+	
+</resources>

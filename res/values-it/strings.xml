@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Weight Control</string>
+    <string name="height">Altezza</string>
+    <string name="gender">Sesso</string>
+    <string name="female">Femmina</string>
+    <string name="male">Maschio</string>
+    <string name="weight">Peso</string>
+    <string name="neck">Collo</string>
+    <string name="waist">Vita</string>
+    <string name="hip">Anca</string>
+    <string name="settings">Impostazioni</string>
+    <color name="light_gray">#E2E3DF</color>
+    <color name="dark_gray">#2E3233</color>
+    <color name="medium_gray">#515B5E</color>
+    <color name="white">#FFFEFC</color>
+    <string name="button_confirm">Confermare</string>
+    <string name="centimeter">cm</string>
+    <string name="kilogram">kg</string>
+    <string name="summary">Riassunto</string>
+    <string name="history">Storico</string>
+    <string name="new_data">Peso dati</string>
+    <string name="fat_percentage">Gra %</string>
+    <string name="weight_change">Cambiare</string>
+    <string name="total_loss">Perdita Totale</string>
+    <string name="bmi">IMC</string>
+    <string name="condition">Condizione</string>
+    <string name="no_content">--</string>
+    <string name="condition_underweight">Sottopeso</string>
+    <string name="condition_normal">Normale</string>
+    <string name="condition_obese">Obeso</string>
+    <string name="condition_overweight">Sovrappeso</string>
+    <string name="date">Data</string>
+    <string name="fill_weight">Si prega di compilare il tuo peso</string>
+    <string name="chart">Grafico</string>
+    <string name="time">Tempo</string>
+    <string name="all_data">Tutti i dati</string>
+    <string name="last_month">Ultimo mese</string>
+    <string name="last_3_months">Ultimi 3 mesi</string>
+    <string name="data">Dati</string>
+    <string name="about">Relative al software</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="sdcard">SD Card</string>
+    <string name="export_data">Esportare</string>
+    <string name="import_data">Importare</string>
+    <string name="export_failed">Impossibile esportare i dati</string>
+    <string name="import_failed">Impossibile importare i dati</string>
+    <string name="export_success">I dati esportati</string>
+    <string name="import_success">Dati importati</string>
+    <string name="uploading">Caricamento dei dati</string>
+    <string name="downloading">Download dei dati</string>
+    <string name="cancel">Cancellare</string>
+    <string name="error_authenticated">Questa applicazione non è stata autenticata correttamente</string>
+    <string name="error_too_big">Questo file è troppo grande per il caricamento</string>
+    <string name="error_up_canceled">Caricamento annullato</string>
+    <string name="error_down_canceled">Download annullato</string>
+    <string name="error_network">Errore di rete, provare di nuovo</string>
+    <string name="error_dropbox">Dropbox errore, provare di nuovo</string>
+    <string name="error_unknown">Errore sconosciuto, riprovare</string>
+    <string name="error_not_file">File o directory vuota</string>
+    <string name="error_cache">Impossibile creare un file locale per memorizzare i dati</string>
+    <string name="import_question">Tutti i dati verranno sostituiti. Sei sicuro?</string>
+    <string name="remove">Rimuovere</string>
+    <string name="remove_question">Sei sicuro?</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="close">Chiudere</string>
+    <string name="remove_data">La rimozione dei dati</string>
+    <string name="suggestion">Suggerimenti e critiche</string>
+    <string name="message_feedback">Lascia un messaggio</string>
+    <string name="about_content">
+    <b>Simple Weight Control</b>\n
+	<b>Version 1.7</b>\n
+	2012 - Double Logic\n
+	http://www.doublelogic.com.br\n\n
+	Questo software è gratuito. Double Logic farà tutto il possibile per migliorare la sua funzionalità, ma non garantisce il funzionamento completo.\n
+	Double Logic non è responsabile per la perdita di dati o danni derivanti dall\'uso di questo software.\n\n
+	Abbiamo cercato di migliorare un po \'la vita delle persone, se ti piace questo software segnala a un amico!\n\n
+	Questo software utilizza le icone del <b>Tango Desktop Project</b>:\n
+	http://tango.freedesktop.org/\n\n
+	E le icone da <b>RRZE Icon Set</b>:\n
+	http://rrze-icon-set.berlios.de/\n\n
+	Utilizziamo la libreria softwate <b>AChartEngine</b>:\n
+	http://www.achartengine.org/\n\n
+	<b>Grazie di tutto, buon divertimento!</b>
+    </string>
+    
+</resources>

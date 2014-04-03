@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/dark_gray"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/buttonSummary"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/summary"
+            android:onClick="summaryClickHandler"
+            android:text="@string/summary"/>
+
+        <Button
+            android:id="@+id/buttonNewData"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/new_data" android:drawableTop="@drawable/new_data" android:onClick="newDataClickHandler"/>
+
+        <Button
+            android:id="@+id/buttonHistory"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/history" android:drawableTop="@drawable/history" android:onClick="historyClickHandler"/>
+
+        <Button
+            android:id="@+id/buttonSettings"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings" android:drawableTop="@drawable/settings" android:onClick="settingsClickHandler"/>
+
+    </LinearLayout>
+
+</LinearLayout>

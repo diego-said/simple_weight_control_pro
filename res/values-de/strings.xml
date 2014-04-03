@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Weight Control</string>
+    <string name="height">Höhe</string>
+    <string name="gender">Geschlecht</string>
+    <string name="female">Weiblich</string>
+    <string name="male">Männlich</string>
+    <string name="weight">Gewicht</string>
+    <string name="neck">Hals</string>
+    <string name="waist">Taille</string>
+    <string name="hip">Hüfte</string>
+    <string name="settings">Einstellungen</string>
+    <color name="light_gray">#E2E3DF</color>
+    <color name="dark_gray">#2E3233</color>
+    <color name="medium_gray">#515B5E</color>
+    <color name="white">#FFFEFC</color>
+    <string name="button_confirm">Bestätigen</string>
+    <string name="centimeter">cm</string>
+    <string name="kilogram">kg</string>
+    <string name="summary">Zusammenfassung</string>
+    <string name="history">Historisch</string>
+    <string name="new_data">Gewichtsdaten</string>
+    <string name="fat_percentage">Fett %</string>
+    <string name="weight_change">Änderung</string>
+    <string name="total_loss">Totalverlust</string>
+    <string name="bmi">BMI</string>
+    <string name="condition">Zustand</string>
+    <string name="no_content">--</string>
+    <string name="condition_underweight">Untergewicht</string>
+    <string name="condition_normal">Normal</string>
+    <string name="condition_obese">Fettleibig</string>
+    <string name="condition_overweight">Übergewicht</string>
+    <string name="date">Datum</string>
+    <string name="fill_weight">Bitte füllen Sie Ihr Gewicht</string>
+    <string name="chart">Grafiek</string>
+    <string name="time">Periode</string>
+    <string name="all_data">Alle gegevens</string>
+    <string name="last_month">Vorige maand</string>
+    <string name="last_3_months">Laatste 3 maanden</string>
+    <string name="data">Daten</string>
+    <string name="about">Über</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="sdcard">SD Card</string>
+    <string name="export_data">Exportieren</string>
+    <string name="import_data">Importieren</string>
+    <string name="export_failed">Daten können nicht exportieren</string>
+    <string name="import_failed">Daten können nicht importiert werden</string>
+    <string name="export_success">Daten exportiert</string>
+    <string name="import_success">Daten importiert</string>
+    <string name="uploading">Hochladen von Daten</string>
+    <string name="downloading">Herunterladen von Daten</string>
+    <string name="cancel">Stornieren</string>
+    <string name="error_authenticated">Diese App wurde nicht authentifiziert richtig</string>
+    <string name="error_too_big">Diese Datei ist zu groß für den Upload</string>
+    <string name="error_up_canceled">Upload abgebrochen</string>
+    <string name="error_down_canceled">Laden abgesagt</string>
+    <string name="error_network">Netzwerk-Fehler, versuchen Sie es erneut</string>
+    <string name="error_dropbox">Dropbox Fehler, versuchen Sie es erneut</string>
+    <string name="error_unknown">Unbekannter Fehler, versuchen Sie es erneut</string>
+    <string name="error_not_file">Datei oder leeres Verzeichnis</string>
+    <string name="error_cache">Konnte nicht erstellt eine lokale Datei zum Speichern der Daten</string>
+    <string name="import_question">Alle Daten werden ausgetauscht. Sind Sie sicher?</string>
+    <string name="remove">Entfernen</string>
+    <string name="remove_question">Sind Sie sicher?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="close">Schließen</string>
+    <string name="remove_data">Entfernen von Daten</string>
+    <string name="suggestion">Anregungen und Kritik</string>
+    <string name="message_feedback">Hinterlassen Sie eine Nachricht</string>
+    <string name="about_content">
+    <b>Simple Weight Control</b>\n
+	<b>Version 1.8</b>\n
+	2012 - Double Logic\n
+	http://www.doublelogic.com.br\n\n
+	Diese Software ist kostenlos zu benutzen. Double Logic werden alles tun, um seine Funktionalität zu verbessern, aber garantiert nicht für seine komplette Bedienung.\n
+	Double Logic ist nicht verantwortlich für Datenverlust oder Schäden, die aus der Nutzung dieser Software.\n\n
+	Wir haben versucht, ein wenig das Leben der Menschen zu verbessern, wenn Sie mögen, diese Software weiter empfehlen!\n\n
+	Diese Software verwendet Symbole aus der <b>Tango Desktop Project</b>:\n
+	http://tango.freedesktop.org/\n\n
+	Und Symbole aus dem <b>RRZE Icon Set</b>:\n
+	http://rrze-icon-set.berlios.de/\n\n
+	Wir nutzen die Bibliothek software <b>AChartEngine</b>:\n
+	http://www.achartengine.org/\n\n
+	<b>Danke für alles, viel Spaß!</b>
+    </string>
+
+</resources>
