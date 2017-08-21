@@ -131,7 +131,7 @@ public class DropboxActivity extends android.app.Activity {
 				Log.e(String.valueOf(LogTags.DROPBOX_HANDLER), "AsyncTask execution error", e);
 			} catch (FileNotFoundException e) {
 				showToast(getString(R.string.import_failed));
-				Log.e(String.valueOf(LogTags.DROPBOX_HANDLER), "Can´t save imported data", e);
+				Log.e(String.valueOf(LogTags.DROPBOX_HANDLER), "Can't save imported data", e);
 			}
 			finish();
 		}

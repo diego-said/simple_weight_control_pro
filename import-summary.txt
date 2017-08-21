@@ -1,0 +1,193 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .gradle/
+* .gradle/3.3/
+* .gradle/3.3/taskArtifacts/
+* .gradle/3.3/taskArtifacts/fileHashes.bin
+* .gradle/3.3/taskArtifacts/fileSnapshots.bin
+* .gradle/3.3/taskArtifacts/taskArtifacts.bin
+* .gradle/3.3/taskArtifacts/taskArtifacts.lock
+* .idea/
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/gradle.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/runConfigurations.xml
+* .idea/workspace.xml
+* app/
+* app/build/
+* app/build/generated/
+* app/build/generated/source/
+* app/build/generated/source/buildConfig/
+* app/build/generated/source/buildConfig/androidTest/
+* app/build/generated/source/buildConfig/androidTest/debug/
+* app/build/generated/source/buildConfig/androidTest/debug/br/
+* app/build/generated/source/buildConfig/androidTest/debug/br/com/
+* app/build/generated/source/buildConfig/androidTest/debug/br/com/doublelogic/
+* app/build/generated/source/buildConfig/androidTest/debug/br/com/doublelogic/swcadsf/
+* app/build/generated/source/buildConfig/androidTest/debug/br/com/doublelogic/swcadsf/test/
+* app/build/generated/source/buildConfig/androidTest/debug/br/com/doublelogic/swcadsf/test/BuildConfig.java
+* app/build/generated/source/buildConfig/debug/
+* app/build/generated/source/buildConfig/debug/br/
+* app/build/generated/source/buildConfig/debug/br/com/
+* app/build/generated/source/buildConfig/debug/br/com/doublelogic/
+* app/build/generated/source/buildConfig/debug/br/com/doublelogic/swcadsf/
+* app/build/generated/source/buildConfig/debug/br/com/doublelogic/swcadsf/BuildConfig.java
+* app/build/generated/source/r/
+* app/build/generated/source/r/debug/
+* app/build/generated/source/r/debug/br/
+* app/build/generated/source/r/debug/br/com/
+* app/build/generated/source/r/debug/br/com/doublelogic/
+* app/build/generated/source/r/debug/br/com/doublelogic/swcadsf/
+* app/build/generated/source/r/debug/br/com/doublelogic/swcadsf/R.java
+* app/build/intermediates/
+* app/build/intermediates/blame/
+* app/build/intermediates/blame/res/
+* app/build/intermediates/blame/res/debug/
+* app/build/intermediates/blame/res/debug/multi/
+* app/build/intermediates/blame/res/debug/multi/values-de.json
+* app/build/intermediates/blame/res/debug/multi/values-es.json
+* app/build/intermediates/blame/res/debug/multi/values-fr.json
+* app/build/intermediates/blame/res/debug/multi/values-it.json
+* app/build/intermediates/blame/res/debug/multi/values-pt.json
+* app/build/intermediates/blame/res/debug/multi/values.json
+* app/build/intermediates/blame/res/debug/single/
+* app/build/intermediates/blame/res/debug/single/drawable-hdpi.json
+* app/build/intermediates/blame/res/debug/single/drawable-ldpi.json
+* app/build/intermediates/blame/res/debug/single/drawable-mdpi.json
+* app/build/intermediates/blame/res/debug/single/layout.json
+* app/build/intermediates/blame/res/debug/single/menu.json
+* app/build/intermediates/incremental/
+* app/build/intermediates/incremental/compileDebugAidl/
+* app/build/intermediates/incremental/compileDebugAidl/dependency.store
+* app/build/intermediates/incremental/compileDebugAndroidTestAidl/
+* app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store
+* app/build/intermediates/incremental/mergeDebugAndroidTestResources/
+* app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties
+* app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml
+* app/build/intermediates/incremental/mergeDebugResources/
+* app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/
+* app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml
+* app/build/intermediates/incremental/mergeDebugResources/merger.xml
+* app/build/intermediates/manifest/
+* app/build/intermediates/manifest/androidTest/
+* app/build/intermediates/manifest/androidTest/debug/
+* app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml
+* app/build/intermediates/manifests/
+* app/build/intermediates/manifests/full/
+* app/build/intermediates/manifests/full/debug/
+* app/build/intermediates/manifests/full/debug/AndroidManifest.xml
+* app/build/intermediates/res/
+* app/build/intermediates/res/merged/
+* app/build/intermediates/res/merged/debug/
+* app/build/intermediates/res/merged/debug/drawable-hdpi/
+* app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png
+* app/build/intermediates/res/merged/debug/drawable-hdpi/mood_level_yellow.png
+* app/build/intermediates/res/merged/debug/drawable-ldpi/
+* app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png
+* app/build/intermediates/res/merged/debug/drawable-ldpi/mood_level_yellow.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/
+* app/build/intermediates/res/merged/debug/drawable-mdpi/chart.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/disc_green.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/dropbox_icon.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/history.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/mood_level_yellow.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/new_data.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/settings.png
+* app/build/intermediates/res/merged/debug/drawable-mdpi/summary.png
+* app/build/intermediates/res/merged/debug/layout/
+* app/build/intermediates/res/merged/debug/layout/about.xml
+* app/build/intermediates/res/merged/debug/layout/backup_data.xml
+* app/build/intermediates/res/merged/debug/layout/datetime_picker.xml
+* app/build/intermediates/res/merged/debug/layout/dropbox.xml
+* app/build/intermediates/res/merged/debug/layout/main.xml
+* app/build/intermediates/res/merged/debug/layout/newdata.xml
+* app/build/intermediates/res/merged/debug/layout/user_chart.xml
+* app/build/intermediates/res/merged/debug/layout/user_data.xml
+* app/build/intermediates/res/merged/debug/layout/user_history.xml
+* app/build/intermediates/res/merged/debug/layout/user_settings.xml
+* app/build/intermediates/res/merged/debug/layout/user_summary.xml
+* app/build/intermediates/res/merged/debug/menu/
+* app/build/intermediates/res/merged/debug/menu/main_menu.xml
+* app/build/intermediates/res/merged/debug/menu/weightdata_menu.xml
+* app/build/intermediates/res/merged/debug/values-de/
+* app/build/intermediates/res/merged/debug/values-de/values-de.xml
+* app/build/intermediates/res/merged/debug/values-es/
+* app/build/intermediates/res/merged/debug/values-es/values-es.xml
+* app/build/intermediates/res/merged/debug/values-fr/
+* app/build/intermediates/res/merged/debug/values-fr/values-fr.xml
+* app/build/intermediates/res/merged/debug/values-it/
+* app/build/intermediates/res/merged/debug/values-it/values-it.xml
+* app/build/intermediates/res/merged/debug/values-pt/
+* app/build/intermediates/res/merged/debug/values-pt/values-pt.xml
+* app/build/intermediates/res/merged/debug/values/
+* app/build/intermediates/res/merged/debug/values/values.xml
+* app/build/intermediates/res/resources-debug-androidTest.ap_
+* app/build/intermediates/res/resources-debug.ap_
+* app/build/outputs/
+* app/build/outputs/logs/
+* app/build/outputs/logs/manifest-merger-debug-report.txt
+* build/
+* build/android-profile/
+* build/android-profile/profile-2017-08-21-16-45-54-399.rawproto
+* build/android-profile/profile-2017-08-21-16-46-09-499.rawproto
+* build/generated/
+* build/generated/mockable-android-15.jar
+* keystore
+* lib/
+* lib/achartengine-1.0.0.jar
+* lib/dropbox-android-sdk.jar
+* lib/httpmime-4.0.3.jar
+* lib/json_simple-1.1.jar
+* lib/libGoogleAnalytics.jar
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

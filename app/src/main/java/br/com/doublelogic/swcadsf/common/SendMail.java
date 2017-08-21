@@ -53,7 +53,7 @@ public class SendMail {
 			emailIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, "[" + context.getString(R.string.app_name) + "] " + subject);
 			emailIntent.putExtra(android.content.Intent.EXTRA_TEXT, msg.toString());
 
-			// INICIA A ACTIVITY DO EMAIL - O USUARIO TERÁ QUE ESCOLHER QUAL PROGRAMA USAR
+			// INICIA A ACTIVITY DO EMAIL - O USUARIO TERA QUE ESCOLHER QUAL PROGRAMA USAR
 			context.startActivity(Intent.createChooser(emailIntent, "Send email (" + subject + ")"));
 
 			return true;

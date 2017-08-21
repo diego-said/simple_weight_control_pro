@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 15
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "br.com.doublelogic.swcadsf"
+        minSdkVersion 4
+        targetSdkVersion 14
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_5
+            targetCompatibility JavaVersion.VERSION_1_5
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('/Users/diegoalvessaidsimao/Desenv/Android/git/simple_weight_control_pro1/libs/achartengine-1.0.0.jar')
+    compile files('/Users/diegoalvessaidsimao/Desenv/Android/git/simple_weight_control_pro1/libs/dropbox-android-sdk.jar')
+    compile files('/Users/diegoalvessaidsimao/Desenv/Android/git/simple_weight_control_pro1/libs/httpmime-4.0.3.jar')
+    compile files('/Users/diegoalvessaidsimao/Desenv/Android/git/simple_weight_control_pro1/libs/json_simple-1.1.jar')
+    compile files('/Users/diegoalvessaidsimao/Desenv/Android/git/simple_weight_control_pro1/libs/libGoogleAnalytics.jar')
+}

@@ -85,7 +85,7 @@ public class SDCardHandler extends AbstractIOHandler {
 			}
 		} catch (FileNotFoundException e) {
 			logWarning("loadUserSettings");
-			logWarning("user setting큦 file not found", e);
+			logWarning("user settings file not found", e);
 		} catch (IOException e) {
 			logError("loadUserSettings");
 			logError("failed to read the settings file", e);
@@ -124,7 +124,7 @@ public class SDCardHandler extends AbstractIOHandler {
 			}
 		} catch (FileNotFoundException e) {
 			logWarning("loadUserWeightData");
-			logWarning("user weight data큦 file not found", e);
+			logWarning("user weight datas file not found", e);
 		} catch (IOException e) {
 			logError("loadUserWeightData");
 			logError("failed to read the weight data file", e);
@@ -151,7 +151,7 @@ public class SDCardHandler extends AbstractIOHandler {
 			return true;
 		} catch (FileNotFoundException e) {
 			logError("saveUserSettings");
-			logError("user setting큦 file not found", e);
+			logError("user settings file not found", e);
 		} catch (IOException e) {
 			logError("saveUserSettings");
 			logError("failed to save the settings file", e);
@@ -194,7 +194,7 @@ public class SDCardHandler extends AbstractIOHandler {
 			return true;
 		} catch (FileNotFoundException e) {
 			logError("saveUserSettings");
-			logError("user setting큦 file not found", e);
+			logError("user setting's file not found", e);
 		} catch (IOException e) {
 			logError("saveUserSettings");
 			logError("failed to save the settings file", e);
